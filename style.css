@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  width: 100%;
+  height: 50px;
+  background-color: red;
+}
+
+.mainvisual {
+  width: 100%;
+  height: 500px;
+  background-color: orange;
+}
+
+.main {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.left {
+  width: 230px;
+  height: 1400px;
+  background-color: #04FD68;
+}
+
+.center {
+  width: 500px;
+  height: 1400px;
+  background-color: green;
+}
+
+.right {
+  width: 230px;
+  height: 1400px;
+  background-color: #04FD68;
+}
+
+.footer {
+  width: 100%;
+  height: 100px;
+  background-color: blue;
+}
